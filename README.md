@@ -1,9 +1,3 @@
-# coding-dojo 17/10/2015
+# coding-dojo
 
-## Local
-
-## Participantes
-
-## O que foi legal :)
-
-## O que podia melhorar
+## 17/10/2015
